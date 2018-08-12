@@ -1,0 +1,1 @@
+include ':app', ':endpointparser-compiler'
